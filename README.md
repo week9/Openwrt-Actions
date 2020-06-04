@@ -12,4 +12,4 @@ Build OpenWrt using GitHub Actions
 
 ## 编译来源
 
-https://github.com/coolsnowwolf/lede
+https://github.com/Lienol/openwrt dev-19.07
