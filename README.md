@@ -13,3 +13,8 @@ Build OpenWrt using GitHub Actions
 ## 编译来源
 
 https://github.com/Lienol/openwrt dev-19.07
+
+## 初始密码
+
+登录地址：192.168.1.1 
+密码：空
