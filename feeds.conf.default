@@ -5,3 +5,4 @@ src-git luci https://github.com/Lienol/openwrt-luci.git;dev-18.06
 src-git lienol https://github.com/Lienol/openwrt-package
 #src-git kenzo https://github.com/kenzok8/openwrt-packages
 #src-git small https://github.com/kenzok8/small
+src-git OpenClash https://github.com/vernesong/OpenClash;master
